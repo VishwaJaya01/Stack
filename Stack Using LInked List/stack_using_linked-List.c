@@ -3,7 +3,7 @@
 
 struct Node {
     int data;
-    struct Node* next;
+    struct Node* next; // hubvbjn
 };
 
 struct Node* createNode(int data) {
